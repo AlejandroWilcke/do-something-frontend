@@ -12,5 +12,5 @@ npm run dev
 
 ### Or live build
 ```bash
-https://do-something-frontend-2r1vgpm04-aleee9208.vercel.app/
+https://do-something-frontend.vercel.app/
 ```
